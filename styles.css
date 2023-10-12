@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(71, 71, 71);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: aqua;
+    text-align:center;
+    margin-top: 50px;
+}
+ul {
+    color:blue;
+}
+ol {
+    color: rgb(0, 0, 0);
+}
+button {
+    padding: 20px 15px;
+    font-size: 16px;
+}
+
